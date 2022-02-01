@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				-270
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bob_DOWN"
+		},
+		{
+			"offsets": [
+				14,
+				-299
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bob_UP"
+		},
+		{
+			"offsets": [
+				40,
+				-283
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bob_LEFT"
+		},
+		{
+			"offsets": [
+				-10,
+				-270
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bob_RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				-300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bob_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oohscary",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tbob",
+	"flip_x": false,
+	"healthbar_colors": [
+		16,
+		0,
+		42
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

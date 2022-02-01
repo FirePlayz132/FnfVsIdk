@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"Improbable Outset",
+			"tiky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Madness",
+			"tiky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"HellClown",
+			"tiky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Expurgation",
+			"tiky",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Lo-Fight",
+			"whitty",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Overhead",
+			"whitty",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Ballistic",
+			"whittymad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
